@@ -159,4 +159,10 @@ models:
       - type: number
         name: nav_order
         label: Nav Order 
+      - type: boolean
+        name: has_children
+        label: Has Children?
+      - type: string
+        name: permalink
+        label: Permalink
 
