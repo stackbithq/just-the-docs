@@ -6,6 +6,8 @@ uploadDir: "assets/images"
 staticDir: ""
 pagesDir: ""
 dataDir: ""
+excludePages:
+  - .github
 models:
   config:
     type: data
