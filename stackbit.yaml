@@ -7,7 +7,11 @@ staticDir: ""
 pagesDir: ""
 dataDir: ""
 excludePages:
-  - .github/ISSUE_TEMPLATE
+  - .github
+  - bin
+  - lib
+  - script
+  - Rakefile
 models:
   config:
     type: data
