@@ -7,7 +7,7 @@ staticDir: ""
 pagesDir: ""
 dataDir: ""
 excludePages:
-  - .github
+  - .github/ISSUE_TEMPLATE
 models:
   config:
     type: data
